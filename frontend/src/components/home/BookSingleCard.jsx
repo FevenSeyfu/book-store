@@ -1,17 +1,17 @@
-import { Link } from 'react-router-dom';
-import { PiBookOpenTextLight } from 'react-icons/pi';
-import { BiUserCircle, BiShow } from 'react-icons/bi';
-import { AiOutlineEdit } from 'react-icons/ai';
-import { BsInfoCircle } from 'react-icons/bs';
-import { MdOutlineDelete } from 'react-icons/md';
-import { useState } from 'react';
-import BookModal from './BookModal';
+import { Link } from "react-router-dom";
+import { PiBookOpenTextLight } from "react-icons/pi";
+import { BiUserCircle, BiShow } from "react-icons/bi";
+import { AiOutlineEdit } from "react-icons/ai";
+import { BsInfoCircle } from "react-icons/bs";
+import { MdOutlineDelete } from "react-icons/md";
+import { useState } from "react";
+import BookModal from "./BookModal";
 
 const BookSingleCard = ({ book }) => {
   const [showModal, setShowModal] = useState(false);
 
   return (
-    <div className='border-2 border-gray-500 rounded-lg px-4 py-2 m-4 relative hover:shadow-xl' key={book._id}>
+    <div className='border-2 border-gray-500 rounded-lg px-4 py-2 m-2 relative hover:shadow-xl'>
       <h2 className='absolute top-1 right-2 px-4 py-1 bg-red-300 rounded-lg'>
         {book.publishYear}
       </h2>
