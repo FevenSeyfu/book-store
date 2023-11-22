@@ -1,8 +1,9 @@
+![Book Store](https://github.com/FevenSeyfu/book-store/blob/8f5b4a53e5340fa0e7906ca22b3cb3df8d96242d/bookstore-demo.png)
 
 <div align="center">
 
   <h3><b>Book Store</b></h3>
-    ![Book Store](https://github.com/FevenSeyfu/book-store/blob/8f5b4a53e5340fa0e7906ca22b3cb3df8d96242d/bookstore-demo.png)
+    
 </div>
 
 <!-- TABLE OF CONTENTS -->
