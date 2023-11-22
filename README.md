@@ -2,7 +2,7 @@
 <div align="center">
 
   <h3><b>Book Store</b></h3>
-    ![Book Store](https://github.com/FevenSeyfu/book-store/blob/main/bookstore-demo.png)](https://book-store-feven.netlify.app/)
+    ![Book Store](https://github.com/FevenSeyfu/book-store/blob/main/bookstore-demo.png)
 </div>
 
 <!-- TABLE OF CONTENTS -->
