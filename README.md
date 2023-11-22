@@ -38,6 +38,10 @@
 - **Backend:** Express and Node.js for a robust server.
 - **Database:** MongoDB for efficient data storage.
 
+#### Deployment
+
+ - **Backend:** render
+ - **Frontend:** Netlify
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
